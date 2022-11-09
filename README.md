@@ -1,8 +1,7 @@
-# UnityFPMovement
-
-Unity First Person Movement
+# Unity First Person Movement
 
 Karlson like first person movement made for the unity game engine, link to setup tutorial comming soon.
+There will be more features added to this, like wallruning, vaulting and crouching
 
 This is a basic Movement script for first person games, with quick setup for game jams, prototyping and other purposes. 
 
