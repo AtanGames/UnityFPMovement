@@ -20,4 +20,5 @@ Setup:
  - Attach the "Movement" script to the player, set groundcheck layer to all except player, assign the camera variable (assign to it the camera parent we created earlier)
  - Set Physics gravity in project settings to -30
  - Create a physics material and set the dynamic and static frition to 0, set friction combine to minimum, assign this to the player's capsule collider
- 
+ - 
+Most Values are fine by default, but you can modify them for your needs
