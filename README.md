@@ -3,6 +3,8 @@
 Karlson like first person movement made for the unity game engine, link to setup tutorial comming soon.
 There will be more features added to this, like wallruning, vaulting and crouching
 
+![alt text](https://github.com/AtanGames/UnityFPMovement/blob/main/MovementDemoGif.gif?raw=true "MovementDemo")
+
 This is a basic Movement script for first person games, with quick setup for game jams, prototyping and other purposes. 
 
 Note: This Script is using the old Input Manager
