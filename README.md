@@ -1,6 +1,6 @@
 # Unity First Person Movement
 
-Karlson like first person movement made for the unity game engine, link to setup tutorial comming soon.
+Karlson like first person movement made for the unity game engine.
 There will be more features added to this, like vaulting and crouching.
 
 ![alt text](https://github.com/AtanGames/UnityFPMovement/blob/main/MovementDemoGif.gif?raw=true "MovementDemo")
